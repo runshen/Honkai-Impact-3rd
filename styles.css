@@ -1,0 +1,38 @@
+.red-border {
+    border: 5px solid red;
+    margin: 10px;
+    padding: 15px;
+}
+
+h2 {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 1px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: url("https://i.stack.imgur.com/9WYxT.png");
+    background-color: #cccccc;
+    background-size: cover;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+.images {
+    display: flex;
+    justify-content:center;
+    border: 5px solid gold;
+    margin: 10px;
+    padding: 50px;
+}
+
+.image{
+    margin: 10px;
+}
